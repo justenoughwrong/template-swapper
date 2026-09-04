@@ -1,0 +1,16 @@
+# Python
+__pycache__
+
+# Pyinstaller
+app.spec
+build/
+dist/
+
+# Qt
+*.ui
+
+# Ruff
+*.toml
+
+# VSCode
+*.vscode
