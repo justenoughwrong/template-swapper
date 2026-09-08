@@ -4,8 +4,8 @@ This app is designed to swap between HTML templates and copy them to the clipboa
 Extract release wherever desired and run from executable.
 
 ## DEPENDENCIES ##
-Python Ver 3.14.6
-Pyside6
+Python Ver 3.14.6  
+Pyside6  
 Pyperclip
 
 ## KNOWN ISSUES ##
