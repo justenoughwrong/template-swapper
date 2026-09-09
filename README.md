@@ -12,6 +12,9 @@ Pyperclip
 
 
 ## RELEASE NOTES ##
+### Version 1.0.2
+Added grid layout to central widget to enable automatic widget resizing.
+
 ### Version 1.0.1
 Disabled HTML line wrapping in VSCode and corrected line breaks in templates caused by it.
 
